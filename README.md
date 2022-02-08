@@ -2,9 +2,9 @@ Projeto Calculadora que realizar as quatro operações básicas (soma, subtraca�
 
 Desenvolvido usando HTML, CSS e Javascript.
 
-/***************************/
+
 Kleiton Lucas<br/>
 kleitonlucs@gmail.com<br/>
 https://github.com/kleitonlucas
-/***************************/
+
 
