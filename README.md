@@ -1,8 +1,7 @@
 # Calculadora
 
 <p align="center"> 🚀 Uma calculadora que realiza as quatro operações básicas (soma, subtracação, multiplicação e divisão). </p>
-
-<h4 align="center"> ✔️ Projeto concluído </h4>
+<p align="center"> Projeto desenvolvido com o intuito de praticar os meus conhecimentos em HTML, CSS e Javascript. </p>
 
 ### Funcionalidades
 
@@ -21,6 +20,7 @@
 
 Kleiton Lucas<br/>
 kleitonlucs@gmail.com<br/>
-https://github.com/kleitonlucas
+https://github.com/kleitonlucas<br/>
+www.linkedin.com/in/kleiton-lucas-lopes-bezerra-4462b4207
 
 
